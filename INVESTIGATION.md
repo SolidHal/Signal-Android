@@ -1,3 +1,10 @@
+interesting commits:
+https://github.com/signalapp/Signal-Android/commit/720322862632203624845f48566610746817b376
+https://github.com/signalapp/Signal-Android/commit/c548816daa9a1b355ee346884169bb266b7403f8
+https://github.com/signalapp/Signal-Android/commit/22c396067d21d219cd7d968afaca12fb7a61287a
+
+
+
 rough linking process is:
 1) show QR code on secondary device
 2) scan QR code on primary device
